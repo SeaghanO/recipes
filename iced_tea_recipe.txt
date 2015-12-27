@@ -1,0 +1,2 @@
+This is a sample file for use in Lesson 3.
+
